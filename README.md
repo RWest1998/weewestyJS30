@@ -1,2 +1,2 @@
-# weewestyJS30
+# JS30
 WesBos JavaScript30 course
